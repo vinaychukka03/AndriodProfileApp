@@ -14,13 +14,6 @@ The primary goal of this UI assignment is to create a user-friendly interface fo
 
 * **User Profile Creation:** The application allows users to create and manage their profiles.
 
-### ScreenShot
-
-Here's a screenshot of the main screen:
-
-![Main Screen](https://github.com/vinaychukka03/AndriodProfileApp/blob/master/profileapp.jpg?raw=true)
-)
-
 ## UI Assignment Readme
 
 This README.md provides an overview of the UI assignment, outlining the application's purpose and key features.
